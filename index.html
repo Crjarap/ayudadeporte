@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tienda Deportiva</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #1e90ff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .hero {
+            background-color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        .productos {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            padding: 20px;
+        }
+        .producto {
+            background-color: white;
+            padding: 15px;
+            width: 200px;
+            text-align: center;
+            border-radius: 8px;
+        }
+        .producto img {
+            width: 100%;
+        }
+        .producto button {
+            background-color: #1e90ff;
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Tienda Deportiva</h1>
+    <p>Los mejores productos para tu entrenamiento</p>
+</header>
+
+<section class="hero">
+    <h2>Equípate como un campeón</h2>
+    <p>Ropa, zapatillas y accesorios deportivos</p>
+</section>
+
+<section class="productos">
+    <div class="producto">
+        <img src="https://via.placeholder.com/200" alt="Zapatillas">
+        <h3>Zapatillas deportivas</h3>
+        <p>$50</p>
+        <button>Comprar</button>
+    </div>
+
+    <div class="producto">
+        <img src="https://via.placeholder.com/200" alt="Balón">
+        <h3>Balón de fútbol</h3>
+        <p>$25</p>
+        <button>Comprar</button>
+    </div>
+</section>
+
+<footer>
+    <p>Contacto: tienda@deportes.com</p>
+</footer>
+
+</body>
+</html>
