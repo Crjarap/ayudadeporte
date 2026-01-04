@@ -66,7 +66,7 @@
 
 <section class="productos">
     <div class="producto">
-        <img src="https://www.atletis.cl/products/trampolin-con-barra-1-02-metros-pro-fitness-negro#v875755" alt="CARDIO">
+        <img src="Cama Elastica.jpg" alt="CARDIO">
         <h3>Trampolin con Barra</h3>
         <p>$39950</p>
         <button>Comprar</button>
