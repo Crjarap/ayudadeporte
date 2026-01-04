@@ -65,12 +65,18 @@
 </section>
 
 <section class="productos">
-    <div class="producto">
-        <img src="Cama Elastica.jpg" alt="CARDIO">
-        <h3>Trampolin con Barra</h3>
-        <p>$39950</p>
-        <button>Comprar</button>
-    </div>
+  <div class="producto">
+    <img src="Cama Elastica.jpg" alt="CARDIO">
+    <h3>Trampolín con Barra</h3>
+    <p>$39950</p>
+    <a href="https://wa.me/56957861004?text=Hola,%20quiero%20comprar%20el%20Trampolín%20con%20Barra" 
+       target="_blank" 
+       style="background-color:#1e90ff; color:white; padding:10px 15px; border-radius:5px; text-decoration:none; display:inline-block;">
+       Comprar
+    </a>
+  </div>
+</section>
+
 
     <div class="producto">
         <img src="https://via.placeholder.com/200" alt="Balón">
