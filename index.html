@@ -56,7 +56,7 @@
 
 <header>
     <h1>Tienda Deportiva</h1>
-    <p>Los mejores productos para tu entrenamiento</p>
+    <p>Los mejores productos para tu entrenamiento y con esto ayudas a Daniella</p>
 </header>
 
 <section class="hero">
@@ -66,9 +66,9 @@
 
 <section class="productos">
     <div class="producto">
-        <img src="https://via.placeholder.com/200" alt="Zapatillas">
-        <h3>Zapatillas deportivas</h3>
-        <p>$50</p>
+        <img src="https://www.atletis.cl/products/trampolin-con-barra-1-02-metros-pro-fitness-negro#v875755" alt="CARDIO">
+        <h3>Trampolin con Barra</h3>
+        <p>$39950</p>
         <button>Comprar</button>
     </div>
 
@@ -81,7 +81,7 @@
 </section>
 
 <footer>
-    <p>Contacto: tienda@deportes.com</p>
+    <p>Contacto: daniella.inmunoterapia@gmail.com</p>
 </footer>
 
 </body>
